@@ -14,7 +14,7 @@ Requirements
 
 Results
 ==
-I compared the base model's performance (without regularization) with different regularization techniques :-
+Comparison of the base model's performance (without regularization) with different regularization techniques :-
 
 <img width="501" alt="Screen Shot 2024-03-16 at 3 20 01 PM" src="https://github.com/noderdev/Feed-Forward-Network-for-Binary-Image-Classification/assets/29915581/a4f1058c-14f1-459c-98d2-dae7a27f1cc4">
 
