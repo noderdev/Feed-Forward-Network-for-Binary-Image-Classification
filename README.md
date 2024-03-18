@@ -12,6 +12,13 @@ Requirements
 ==
 ``` Make sure to have tensorflow 2.0 >= installed. Install sklearn, numpy , matplotlib ```
 
+Dataset
+==
+The dataset consists of food and non-food images for binary classification. To get the dataset, download from the link below:-
+```
+https://drive.google.com/file/d/1ee6ga_Ch2luZFRKHnC1xjferdnzLFEMH/view?usp=sharing
+```
+
 Results
 ==
 Comparison of the base model's performance (without regularization) with different regularization techniques :-
